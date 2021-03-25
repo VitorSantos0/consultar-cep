@@ -10,7 +10,8 @@
 
 ## Tecnologias 
 🔗 [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) <br>
-🔗 [axios](https://github.com/axios/axios)
+🔗 [axios](https://github.com/axios/axios) <br>
+🔗 [viacep](https://viacep.com.br)
 
 
 ## Descrição    
